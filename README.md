@@ -1,3 +1,22 @@
+## 📸 Project Gallery
+
+Here are some views of the Environmental Monitor dashboard in action:
+
+<p align="center">
+  <img src="https://github.com/createlabz/website_createlabz_picsv2/blob/main/images.jpg?raw=true" width="400" alt="Dashboard Overview">
+  <img src="https://github.com/createlabz/website_createlabz_picsv2/blob/main/images1.jpg?raw=true" width="400" alt="Chart View">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/createlabz/website_createlabz_picsv2/blob/main/iamges22.jpg?raw=true" width="400" alt="Alert Configuration">
+  <img src="https://github.com/createlabz/website_createlabz_picsv2/blob/main/images3.jpg?raw=true" width="400" alt="BLE Streaming">
+</p>
+
+
+
+
 # 🌍 CrowPanel 7" ESP32-S3 HMI Environmental Monitor
 ### LVGL Touchscreen Dashboard + BLE + Real-Time Charts
 
